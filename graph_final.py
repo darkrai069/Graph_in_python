@@ -1,5 +1,5 @@
-# print("This is a Input-Powered Graph")
-# print("Enter 2 input names and their curresponding value")
+print("This is a Input-Powered Graph")
+print("Enter any number of inputs names and their curresponding value")
 
 """
  ABOUT The Program
